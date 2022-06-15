@@ -1,10 +1,10 @@
 Acoin7 integration/staging tree
 ================================
 
-http://www.acoin7.org
+http://www.acoin7.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Acoin7 Developers
+Copyright (c) 2017-2022 Acoin7 Developers
 
 What is Acoin7?
 ----------------
@@ -15,11 +15,11 @@ Acoin7 is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 1 coins per block
+ - 2022 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Acoin7 client sofware, see http://www.acoin7.org.
+the Acoin7 client sofware, see http://www.acoin7.com.
 
 License
 -------
